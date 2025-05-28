@@ -1,0 +1,11 @@
+{
+  "banners": [
+    {
+      "id": "banner_001",
+      "nombre": "Futuro de Dragones",
+      "descripcion": "Un mundo DND con tecnología ancestral y runas flotantes.",
+      "precio": 20,
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748390490/futuristic-city_syk2jj.png"
+    }
+  ]
+}
