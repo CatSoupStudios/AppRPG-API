@@ -8,11 +8,39 @@
       "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748390490/futuristic-city_syk2jj.png"
     },
     {
-        "id": "banner_002",
-        "nombre": "Castillo y Dragón",
-        "descripcion": "Un castillo ancestral bajo la luna, vigilado por un dragón legendario. Pura fantasía D&D.",
-        "precio": 30,
-        "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748574330/banner_clasico_mhrztw.png"
+      "id": "banner_002",
+      "nombre": "Castillo y Dragón",
+      "descripcion": "Un castillo ancestral bajo la luna, vigilado por un dragón legendario. Pura fantasía D&D.",
+      "precio": 30,
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748574330/banner_clasico_mhrztw.png"
+    },
+    {
+      "id": "banner_003",
+      "nombre": "Runas del Multiverso",
+      "descripcion": "Portales arcanos y runas flotantes conectan mundos de fantasía. Estilo Arcane x Solo Leveling.",
+      "precio": 40,
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748578571/link-dnd_chcsn4.png"
+    },
+    {
+      "id": "banner_004",
+      "nombre": "Ciudad Ancestral",
+      "descripcion": "Una ciudad mágica en el crepúsculo, con luces de neón y runas místicas iluminando las calles.",
+      "precio": 50,
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748578738/cuidad_vkkisk.png"
+    },
+    {
+      "id": "banner_005",
+      "nombre": "Guerra y Dados",
+      "descripcion": "Paisaje de batalla épica con un dado D20 gigante irradiando poder. Pura suerte y caos.",
+      "precio": 55,
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748578823/DND-war_urzoqn.png"
+    },
+    {
+      "id": "banner_006",
+      "nombre": "Taberna Arcana",
+      "descripcion": "Una taberna mágica con aventureros y luces de neón. El refugio favorito de los héroes.",
+      "precio": 45,
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748578949/taberna_fghczj.png"
     }
   ]
 }
