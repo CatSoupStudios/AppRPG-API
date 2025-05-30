@@ -6,6 +6,13 @@
       "descripcion": "Un mundo DND con tecnología ancestral y runas flotantes.",
       "precio": 20,
       "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748390490/futuristic-city_syk2jj.png"
+    },
+    {
+        "id": "banner_002",
+        "nombre": "Castillo y Dragón",
+        "descripcion": "Un castillo ancestral bajo la luna, vigilado por un dragón legendario. Pura fantasía D&D.",
+        "precio": 30,
+        "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748574330/banner_clasico_mhrztw.png"
     }
   ]
 }
