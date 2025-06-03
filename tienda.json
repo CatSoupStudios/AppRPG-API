@@ -42,5 +42,32 @@
       "precio": 45,
       "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748578949/taberna_fghczj.png"
     }
+  ],
+  "pociones": [
+    {
+      "id": "pocion_10",
+      "nombre": "Poción de 10%",
+      "descripcion": "Recupera el 10% de tu barra de stamina. Ideal para seguir leveleando sin parar.",
+      "precio": 30,
+      "moneda": "oro",
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748993751/posion-10_cdt590.png"
+    },
+    {
+      "id": "pocion_20",
+      "nombre": "Poción de 20%",
+      "descripcion": "Recupera el 20% de tu barra de stamina. Solo para guerreros que nunca se rinden.",
+      "precio": 50,
+      "moneda": "oro",
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748994238/posion-20_xzmxpl.png"
+    },
+    {
+      "id": "pocion_premium",
+      "nombre": "Poción de la Libertad",
+      "descripcion": "Elimina todos los anuncios para siempre y desbloquea la experiencia premium.",
+      "precio": 2.99,
+      "moneda": "usd",
+      "url_imagen": "https://res.cloudinary.com/dbnzhmg6z/image/upload/v1748993837/posion-premium_ieqomc.png"
+    }
   ]
 }
+
